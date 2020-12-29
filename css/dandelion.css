@@ -79,11 +79,11 @@ svg {
 }
 
 body {
-    background-image: url("../images/blueprint.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/blueprint.png")
 }
 
 div#da-header #da-header-top {
-    background-image: url("../images/carbon.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/carbon.png")
 }
 
 ::-moz-focus-inner {
@@ -334,7 +334,7 @@ div#da-header #da-header-top #da-header-toolbar #da-user-profile {
     border-right: 1px solid rgba(0,0,0,0.6);
     padding: 0 12px;
     cursor: pointer;
-    background: url("../images/user-drop-arrow.png") no-repeat right center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/user-drop-arrow.png") no-repeat right center;
     padding-right: 24px
 }
 
@@ -392,7 +392,7 @@ div#da-header #da-header-top #da-header-toolbar #da-header-button-container ul l
     height: 36px;
     margin-left: 4px;
     position: relative;
-    background: url("../images/toolbar-button.png") no-repeat center top
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/toolbar-button.png") no-repeat center top
 }
 
 div#da-header #da-header-top #da-header-toolbar #da-header-button-container ul li.da-header-button.active {
@@ -417,15 +417,15 @@ div#da-header #da-header-top #da-header-toolbar #da-header-button-container ul l
 }
 
 div#da-header #da-header-top #da-header-toolbar #da-header-button-container ul li.notif.da-header-button>a {
-    background-image: url("../images/icons/white/16/alert_2.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/white/16/alert_2.png")
 }
 
 div#da-header #da-header-top #da-header-toolbar #da-header-button-container ul li.message.da-header-button>a {
-    background-image: url("../images/icons/white/16/message_small.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/white/16/message_small.png")
 }
 
 div#da-header #da-header-top #da-header-toolbar #da-header-button-container ul li.logout.da-header-button>a {
-    background-image: url("../images/icons/white/16/off_small.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/white/16/off_small.png")
 }
 
 div#da-header #da-header-top #da-header-toolbar #da-header-button-container ul li.da-header-button span.da-button-count {
@@ -589,12 +589,12 @@ div#da-header #da-header-top #da-header-toolbar ul.da-header-dropdown ul.da-drop
 }
 
 div#da-header #da-header-top #da-header-toolbar .message ul.da-header-dropdown ul.da-dropdown-sub li>a,div#da-header #da-header-top #da-header-toolbar .message ul.da-header-dropdown ul.da-dropdown-sub li>span {
-    background: url("../images/icons/color/email.png") no-repeat 12px center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/color/email.png") no-repeat 12px center;
     padding-left: 40px
 }
 
 div#da-header #da-header-top #da-header-toolbar .message ul.da-header-dropdown ul.da-dropdown-sub li.read>a,div#da-header #da-header-top #da-header-toolbar .message ul.da-header-dropdown ul.da-dropdown-sub li.read>span {
-    background-image: url("../images/icons/color/email_open.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/color/email_open.png")
 }
 
 div#da-header #da-header-top #da-header-toolbar ul.da-header-dropdown ul.da-dropdown-sub li.unread a,div#da-header #da-header-top #da-header-toolbar ul.da-header-dropdown ul.da-dropdown-sub li.unread span,div#da-header #da-header-top #da-header-toolbar ul.da-header-dropdown ul.da-dropdown-sub li a:hover,div#da-header #da-header-top #da-header-toolbar ul.da-header-dropdown ul.da-dropdown-sub li span:hover {
@@ -611,7 +611,7 @@ div#da-header #da-header-top #da-header-toolbar ul.da-header-dropdown ul.da-drop
 }
 
 div#da-header #da-header-bottom {
-    background: url("../images/header-bottom.png") repeat-x left top
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/header-bottom.png") repeat-x left top
 }
 
 div#da-header #da-header-bottom #da-search {
@@ -623,7 +623,7 @@ div#da-header #da-header-bottom #da-search {
 
 div#da-header #da-header-bottom #da-search input[type="text"] {
     width: 100%;
-    background: #f0f0f0 url("../images/search-icon.png") no-repeat right center;
+    background: #f0f0f0 url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/search-icon.png") no-repeat right center;
     border: 1px solid #cecece;
     margin: 0;
     outline: 0;
@@ -688,7 +688,7 @@ div#da-header #da-header-bottom #da-breadcrumb ul li.active {
     border-top: 5px solid #a9ca60;
     padding-top: 10px;
     padding-bottom: 22px;
-    background: url("../images/breadcrumb-arrow.png") no-repeat center bottom
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/breadcrumb-arrow.png") no-repeat center bottom
 }
 
 div#da-content {
@@ -703,7 +703,7 @@ div#da-wrapper #da-sidebar-separator,div#da-wrapper.fluid #da-sidebar-separator 
     margin-left: 2%;
     top: 0;
     bottom: 0;
-    background: url("../images/container-separator.png") repeat-y center top
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/container-separator.png") repeat-y center top
 }
 
 div#da-wrapper.fixed #da-sidebar-separator {
@@ -791,11 +791,11 @@ div#da-content #da-main-nav ul li a,div#da-content #da-main-nav ul li span {
     padding: 18px 32px 18px 48px;
     outline: 0;
     position: relative;
-    background: url("../images/menu-bulb-off.png") right center no-repeat
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/menu-bulb-off.png") right center no-repeat
 }
 
 div#da-content #da-main-nav ul li.active a,div#da-content #da-main-nav ul li.active span {
-    background-image: url("../images/menu-bulb-on.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/menu-bulb-on.png")
 }
 
 div#da-content #da-main-nav ul li span.da-nav-count {
@@ -849,7 +849,7 @@ div#da-content #da-main-nav ul li span.da-nav-icon img {
 
 div#da-content #da-main-nav ul li ul {
     border: 0;
-    background: #e9e9e9 url("../images/submenu-shadow.png") repeat-x left top;
+    background: #e9e9e9 url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/submenu-shadow.png") repeat-x left top;
     -webkit-border-radius: 0;
     -o-border-radius: 0;
     -moz-border-radius: 0;
@@ -871,7 +871,7 @@ div#da-content #da-main-nav ul li ul li {
 }
 
 div#da-content #da-main-nav ul li ul li:hover {
-    background: url("../images/menu-hover.png")
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/menu-hover.png")
 }
 
 div#da-content #da-main-nav ul li ul li a,div#da-content #da-main-nav ul li ul li span {
@@ -1053,7 +1053,7 @@ div#da-footer p {
         width: 100%;
         cursor: pointer;
         float: none;
-        background: url("../images/icons/black/16/list.png") center 14px no-repeat,url("../images/header-bottom.png") repeat-x left top
+        background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/black/16/list.png") center 14px no-repeat,url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/header-bottom.png") repeat-x left top
     }
 
     div#da-content #da-sidebar #da-main-nav.da-button-container {
@@ -1230,7 +1230,7 @@ div#da-footer p {
     height: 40px;
     cursor: pointer;
     margin-top: -1px;
-    background: url("../images/icons/black/32/cog_5.png") no-repeat center center #fff;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/black/32/cog_5.png") no-repeat center center #fff;
     border-color: #999;
     border-color: rgba(0,0,0,.2);
     border-style: solid;
@@ -1301,7 +1301,7 @@ div#da-error-wrapper #da-error-code {
     line-height: 1;
     font-size: 32px;
     text-align: center;
-    background: url("../images/error-hanger.png") no-repeat center center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/error-hanger.png") no-repeat center center;
     -webkit-transform-origin: center top;
     -moz-transform-origin: center top;
     transform-origin: center top;
@@ -1323,7 +1323,7 @@ div#da-error-wrapper #da-error-pin {
     margin-bottom: -27px;
     z-index: 10;
     position: relative;
-    background: url("../images/error-pin.png") no-repeat center center
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/error-pin.png") no-repeat center center
 }
 
 div#da-error-wrapper p {
@@ -1434,7 +1434,7 @@ form.da-form .customfile {
     margin: -7px -7px -7px 0;
     cursor: pointer;
     z-index: 9999;
-    background: #f3f3f3 url("../images/button-gradient.png") repeat-x left bottom;
+    background: #f3f3f3 url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/button-gradient.png") repeat-x left bottom;
     border: 1px solid #d1d1d1;
     -webkit-border-radius: 0 2px 2px 0;
     -o-border-radius: 0 2px 2px 0;
@@ -1499,7 +1499,7 @@ form.da-form .da-form-row .chzn-container-multi .chzn-choices .search-field inpu
 
 .da-message.error {
     background-color: #ffcbca;
-    background-image: url("../images/message-error.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/message-error.png");
     border-color: #eb979b;
     color: #9b4449
 }
@@ -1510,7 +1510,7 @@ form.da-form .da-form-row .chzn-container-multi .chzn-choices .search-field inpu
 
 .da-message.success {
     background-color: #e1f1c0;
-    background-image: url("../images/message-success.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/message-success.png");
     border-color: #b5d56d;
     color: #62a426
 }
@@ -1521,7 +1521,7 @@ form.da-form .da-form-row .chzn-container-multi .chzn-choices .search-field inpu
 
 .da-message.warning {
     background-color: #fef0b1;
-    background-image: url("../images/message-warning.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/message-warning.png");
     border-color: #ddca76;
     color: #a98b15
 }
@@ -1532,7 +1532,7 @@ form.da-form .da-form-row .chzn-container-multi .chzn-choices .search-field inpu
 
 .da-message.info {
     background-color: #bce5f7;
-    background-image: url("../images/message-info.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/message-info.png");
     border-color: #a6d3e8;
     color: #11689e
 }
@@ -2014,12 +2014,12 @@ form.da-form .da-form-col-8-8 {
 }
 
 .da-gallery ul li span.da-gallery-hover ul li.da-gallery-update a {
-    background-image: url("../images/icons/white/16/pencil.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/white/16/pencil.png");
     top: 50px
 }
 
 .da-gallery ul li span.da-gallery-hover ul li.da-gallery-delete a {
-    background-image: url("../images/icons/white/16/cross_small.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/white/16/cross_small.png");
     top: 150px
 }
 
@@ -2072,7 +2072,7 @@ div.da-panel .da-panel-header {
     display: block!important;
     position: relative;
     border: 1px solid #bfbfbf;
-    background-image: url("../images/panel-header.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/panel-header.png");
     padding: 0 16px;
     -webkit-border-radius: 3px 3px 0 0;
     -o-border-radius: 3px 3px 0 0;
@@ -2100,7 +2100,7 @@ div.da-panel .da-panel-header .da-panel-title img {
 }
 
 div.da-panel .da-panel-header .da-panel-toggler {
-    background: url("../images/icons/black/16/bended_arrow_up.png") no-repeat center center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/black/16/bended_arrow_up.png") no-repeat center center;
     border-left: 1px solid #c3c3c3;
     margin-top: -26px;
     height: 16px;
@@ -2115,7 +2115,7 @@ div.da-panel .da-panel-header .da-panel-toggler {
 }
 
 div.da-panel.collapsed .da-panel-header .da-panel-toggler {
-    background-image: url("../images/icons/black/16/bended_arrow_down.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/black/16/bended_arrow_down.png")
 }
 
 div.da-panel.collapsed>* {
@@ -2124,7 +2124,7 @@ div.da-panel.collapsed>* {
 
 div.da-panel .da-panel-content,div.da-panel-widget {
     background-color: white;
-    background-image: url("../images/panel-content.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/panel-content.png");
     background-repeat: repeat-x;
     background-position: left top;
     border: 1px solid #bfbfbf
@@ -2156,7 +2156,7 @@ div.da-panel.scrollable .da-panel-content .scrollbar {
 div.da-panel.scrollable .da-panel-content .scrollbar .track {
     height: 16px;
     width: 10px;
-    background: url("../images/scrollbar-track-bg.png") repeat-x;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/scrollbar-track-bg.png") repeat-x;
     position: relative
 }
 
@@ -2169,7 +2169,7 @@ div.da-panel.scrollable .da-panel-content .scrollbar .thumb {
     overflow: hidden;
     top: 0;
     position: absolute;
-    background: #f0f0f0 url("../images/scrollbar-grip.png") center center no-repeat
+    background: #f0f0f0 url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/scrollbar-grip.png") center center no-repeat
 }
 
 div.da-panel.scrollable .da-panel-content .scrollbar .thumb .end {
@@ -2216,7 +2216,7 @@ div.da-panel-toolbar ul,div.da-panel-toolbar ul.top {
     border: 1px solid #bfbfbf;
     border-bottom-color: #cacaca;
     border-top: 0;
-    background: url("../images/toolbar-bg.png") repeat-x left bottom
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/toolbar-bg.png") repeat-x left bottom
 }
 
 div.da-panel-toolbar ul.bottom {
@@ -2336,7 +2336,7 @@ html .fc,.fc table {
 }
 
 .fc .fc-button-content {
-    background: transparent url("../images/button-gradient.png") repeat-x left bottom;
+    background: transparent url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/button-gradient.png") repeat-x left bottom;
     -webkit-border-radius: 2px;
     -o-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -2356,7 +2356,7 @@ html .fc,.fc table {
 }
 
 .fc .fc-widget-header {
-    background: url("../images/default-header.png") repeat-x left bottom;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/default-header.png") repeat-x left bottom;
     -moz-box-shadow: inset 1px 0 0 0 #f8f8f8;
     -webkit-box-shadow: inset 1px 0 0 0 #f8f8f8;
     -khtml-box-shadow: inset 1px 0 0 0 #f8f8f8;
@@ -2390,7 +2390,7 @@ div.pp_default .pp_social {
     height: 135px;
     position: relative;
     margin: 0 5px 5px 5px;
-    background: url("../images/circular-stat-back.png") no-repeat center center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/circular-stat-back.png") no-repeat center center;
     background-size: 100% 100%
 }
 
@@ -2406,7 +2406,7 @@ div.pp_default .pp_social {
 
 .da-circular-stat .da-circular-front {
     z-index: 100;
-    background: url("../images/circular-stat-front.png") no-repeat center center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/circular-stat-front.png") no-repeat center center;
     background-size: 100% 100%
 }
 
@@ -2518,12 +2518,12 @@ ul.da-summary-stat li .da-summary-text span.label {
 }
 
 ul.da-summary-stat li .da-summary-text span.value.up {
-    background: url("../images/up.png") no-repeat right center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/up.png") no-repeat right center;
     padding-right: 24px
 }
 
 ul.da-summary-stat li .da-summary-text span.value.down {
-    background: url("../images/down.png") no-repeat right center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/down.png") no-repeat right center;
     padding-right: 24px
 }
 
@@ -2538,7 +2538,7 @@ table.da-table tr td,table.da-table tr th {
 }
 
 table.da-table thead tr {
-    background: #eee url("../images/default-header.png") repeat-x left top
+    background: #eee url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/default-header.png") repeat-x left top
 }
 
 table.da-table tr th {
@@ -2595,7 +2595,7 @@ table.da-table tr.even {
 
 table.da-table.da-detail-view tbody th {
     width: 120px;
-    background: url("../images/default-header.png") repeat-x left bottom
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/default-header.png") repeat-x left bottom
 }
 
 table.da-table.da-detail-view tbody tr:last-child th {
@@ -2700,11 +2700,11 @@ table.da-table.da-detail-view .null {
 }
 
 .dataTables_wrapper .dataTables_paginate.paging_two_button .paginate_disabled_next,.dataTables_wrapper .dataTables_paginate.paging_two_button .paginate_enabled_next {
-    background-image: url("../images/dt-arrow-right.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/dt-arrow-right.png")
 }
 
 .dataTables_wrapper .dataTables_paginate.paging_two_button .paginate_disabled_previous,.dataTables_wrapper .dataTables_paginate.paging_two_button .paginate_enabled_previous {
-    background-image: url("../images/dt-arrow-left.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/dt-arrow-left.png")
 }
 
 .dataTables_wrapper .dataTables_paginate.paging_two_button .paginate_disabled_next,.dataTables_wrapper .dataTables_paginate.paging_two_button .paginate_disabled_previous,.dataTables_wrapper .dataTables_paginate.paging_full_numbers .paginate_button.paginate_button_disabled {
@@ -2744,15 +2744,15 @@ table.da-table.da-detail-view .null {
 }
 
 .dataTables_wrapper table thead th.sorting {
-    background-image: url("../images/sort.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/sort.png")
 }
 
 .dataTables_wrapper table thead th.sorting_asc {
-    background-image: url("../images/sort_asc.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/sort_asc.png")
 }
 
 .dataTables_wrapper table thead th.sorting_desc {
-    background-image: url("../images/sort_desc.png")
+    background-image: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/sort_desc.png")
 }
 
 .dataTables_wrapper table tr.odd td.sorting_1 {
@@ -2866,7 +2866,7 @@ p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset,figure {
     z-index: 25;
     position: relative;
     float: left;
-    background: url("../images/wizard-nav.png") no-repeat right center;
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/wizard-nav.png") no-repeat right center;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
@@ -2892,12 +2892,12 @@ p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset,figure {
 
 .da-wizard-nav ul li.active span,.da-wizard-nav ul li.active a {
     text-indent: -9999px;
-    background: url("../images/icons/color/asterisk_orange.png") no-repeat center center
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/color/asterisk_orange.png") no-repeat center center
 }
 
 .da-wizard-nav ul li.done span,.da-wizard-nav ul li.done a {
     text-indent: -9999px;
-    background: url("../images/icons/color/accept.png") no-repeat center center
+    background: url("https://cdn.jsdelivr.net/gh/rystudy/rystudy@1.02/images/icons/color/accept.png") no-repeat center center
 }
 
 .da-wizard-nav ul li span img,.da-wizard-nav ul li a img {
